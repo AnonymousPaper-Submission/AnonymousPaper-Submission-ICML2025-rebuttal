@@ -43,4 +43,4 @@ Table 4
 
 An illustration of VAE, Hierarchical VAE, and Diffusion Variational Inference.
 
-![illustration](Picture1.png)
+![illustration](picture.png)
