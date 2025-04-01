@@ -41,7 +41,3 @@ Table 4
 | Silhouettes     | 1.52×10⁻⁷         | 2.31×10⁻⁷         | 2.89×10⁻⁷         | 3.56×10⁻⁷         |
 | DTD             | 9.43×10⁻¹⁰        | 1.48×10⁻¹²        | 7.27×10⁻¹³        | 1.02×10⁻¹²        |
 
-
-Results of varying the number of layers.
-
-![results](./results_vary.jpg)
