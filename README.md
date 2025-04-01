@@ -41,6 +41,6 @@ Table 4
 | Silhouettes     | 1.52×10⁻⁷         | 2.31×10⁻⁷         | 2.89×10⁻⁷         | 3.56×10⁻⁷         |
 | DTD             | 9.43×10⁻¹⁰        | 1.48×10⁻¹²        | 7.27×10⁻¹³        | 1.02×10⁻¹²        |
 
-An illustration of VAE, Hierarchical VAE, and Diffusion Variational Inference.
+This is an illustration of VAE, Hierarchical VAE, and Diffusion Variational Inference. Compared to Hierarchical VAE, the diffusion-based inference model is simpler in general.
 
 ![illustration](picture.png)
